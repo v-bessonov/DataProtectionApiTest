@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtectionApiTest", "DataProtectionApiTest\DataProtectionApiTest.csproj", "{11A5A234-F10A-416C-AA0B-F114B5FDA2B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyManagementTest", "KeyManagementTest\KeyManagementTest.csproj", "{1E72613E-56BE-44E1-A51B-BB4DCA4947F5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEncryptor", "DataEncryptor\DataEncryptor.csproj", "{0C0080D9-42F4-48E9-9CB9-3602CCD67E31}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDecryptor", "DataDecryptor\DataDecryptor.csproj", "{FFAFE70D-B47E-421E-A30C-2796259AD480}"
@@ -18,10 +16,6 @@ Global
 		{11A5A234-F10A-416C-AA0B-F114B5FDA2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A5A234-F10A-416C-AA0B-F114B5FDA2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A5A234-F10A-416C-AA0B-F114B5FDA2B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E72613E-56BE-44E1-A51B-BB4DCA4947F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E72613E-56BE-44E1-A51B-BB4DCA4947F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E72613E-56BE-44E1-A51B-BB4DCA4947F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E72613E-56BE-44E1-A51B-BB4DCA4947F5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0C0080D9-42F4-48E9-9CB9-3602CCD67E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0C0080D9-42F4-48E9-9CB9-3602CCD67E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0080D9-42F4-48E9-9CB9-3602CCD67E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
